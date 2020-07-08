@@ -1,7 +1,9 @@
+/* body */
 body{
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
 }
+/* header area start */
 header{
     background-color: #f0fff0;
 }
@@ -40,6 +42,11 @@ h1{
     color: #fff;
     border-radius: 33px;
 }
+
+/* header area start */
+
+/* main area start */
+
 .main-card{
     background-color: #F8FFFB;
     border-radius: 10px;
@@ -56,6 +63,11 @@ h1{
 .main-area-text{
     color: #585859;
 }
+
+/* main area start */
+
+/* online-course area start  */
+
 .online-courses h3{
     color: #413960;
 }
@@ -88,6 +100,11 @@ h1{
     line-height: 19px;
     margin-bottom: 10px;
 }
+
+/* online-course area end  */
+
+/*testimonial-area start  */
+
 .testimonial{
     margin: 100px 0;
 }
@@ -97,7 +114,20 @@ h1{
 }
 .test-text p{
     width: 583px;
+
 }
+/*testimonial-area end  */
+
+/* footer area start  */
 footer{
-    background-color: #413960;
+    color: #fff;
+    background-color: #282531;
 }
+footer p{
+    font-size: 12px;
+}
+footer ul li a{
+    color: #fff;
+    font-size: 12px;
+}
+/* footer area end */
