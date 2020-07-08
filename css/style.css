@@ -7,7 +7,97 @@ header{
 }
 h1{
     font-size: 48px;
+    line-height: 70px;
 }
-a{
+.nav-link{
     cursor: pointer;
+    color: black!important;
+}
+.nav-link:hover{
+    font-size: small;
+    text-align: center;
+    color: white!important;
+    width: 104px;
+    background-color:#21B573;
+    border-radius: 33px;
+}
+.text-color{
+    font-style: normal;
+    color: #FD511A;
+    line-height: 24px; 
+}
+.dummy-text{
+    font-style: normal;
+    color: #6c6b6b;
+    line-height: 36px;
+}
+.text-schedule{
+    color: #21b573;
+}
+.start-btn{
+    width: 153px;
+    background-color: #21b573;
+    color: #fff;
+    border-radius: 33px;
+}
+.main-card{
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.main-card:hover{
+    background: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.main-area-title{
+    color: #413960;
+    font-size: 24px;
+}
+.main-area-text{
+    color: #585859;
+}
+.online-courses h3{
+    color: #413960;
+}
+.card-title{
+    color: #413960;
+    font-size: 24px;
+}
+.card-text{
+    color: #585859;
+}
+.online-courses .card img{
+    width: 331px;
+    height: 234px;
+}
+.online-courses .card{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.card-footer{
+    background: none;
+    border: none;
+}
+.buy-btn{
+    color: #f0fff0;
+    width: 137px;
+    height: 35px;
+    background: #21B573;
+    border-radius: 33px;
+    line-height: 19px;
+    margin-bottom: 10px;
+}
+.testimonial{
+    margin: 100px 0;
+}
+.test-img{
+    width: 120px !important;
+    height: 120px;
+}
+.test-text p{
+    width: 583px;
+}
+footer{
+    background-color: #413960;
 }
